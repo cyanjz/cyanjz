@@ -4,9 +4,9 @@
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />
 
 ## Contact Me
-
-
+<a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" alt="Python Badge">
+</a>
 
 ## Github status
 [![Cyanjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyanjz&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyanjz&hide=Jupyter%20Notebook&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
