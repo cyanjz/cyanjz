@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&theme=tokyonight&height=200&section=header&text=Cyanjz's%20repo&fontSize=90&animation=fadeIn
 )
-<div align="center">
-  ##Nice to meet you!
-</div>
+## 
+<p align="center">text</p>
