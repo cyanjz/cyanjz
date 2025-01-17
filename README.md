@@ -8,4 +8,4 @@
 
 
 ## Github status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyanjz)](https://github.com/anuraghazra/github-readme-stats)
+[![Cyanjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyanjz&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
