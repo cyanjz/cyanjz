@@ -2,5 +2,5 @@
 )
 ## <center> Nice to meet you! </center>
 <div align="center">
-  my text here.
+  Nice to meet you!
 </div>
