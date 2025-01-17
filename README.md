@@ -3,19 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">Welcome to cyanjz's profile. I'm just a student for now :></div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- 🔭Currently studying about python SW dev and AI.  
   
 
 <br/>  
@@ -76,7 +67,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+  
 
 <br/>  
 
@@ -87,13 +78,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+
 <br />
 
 ----
