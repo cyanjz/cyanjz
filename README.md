@@ -1,12 +1,70 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&theme=tokyonight&height=200&section=header&text=Cyanjz's%20repo&fontSize=90&animation=fadeIn
-)
-## Tech Stack
-<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />
+<!DOCTYPE html>
+<html lang="en">
 
-## Contact Me
-<a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" alt="Python Badge">
-</a>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Signika+Negative:wght@300..700&display=swap"
+        rel="stylesheet">
+    <style>
+        h1 {
+            font-family: "Kanit", sans-serif;
+        }
+        h2 {
+            border-width: 0;
+            text-align: center;
+        }
+        .main-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .main-content-text {
+            font-family: "Signika Negative", sans-serif;
+        }
+        .title {
+            width: 50vw;
+        }
+        .title-text {
+            font-size: 3vw;
+        }
+    </style>
+</head>
 
-## Github status
-[![Cyanjz's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyanjz&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyanjz&hide=Jupyter%20Notebook&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<body>
+    <header class="repo-title p-5 d-flex justify-content-center">
+        <div class="title border rounded bg-dark py-2">
+            <h1 class="text-light text-center title-text">Welcome to cyanjz github</h1>
+        </div>
+    </header>
+    <main class="main-content">
+        <article>
+            <h2 class="main-content-text">Tech Stack</h2>
+            <img
+                src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&" />
+            <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=f06428" />
+            <img
+                src="https://img.shields.io/badge/bootstrap-20232a.svg?style=for-the-badge&logo=bootstrap&" />
+        </article>
+        <article class="main-content">
+            <h2 class="main-content-text">Learning</h2>
+        </article>
+        <article class="main-content">
+            <h2 class="main-content-text">Tools</h2>
+        </article>
+    </main>
+    <footer>
+        <h2 class="main-content-text">Contact</h2>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
