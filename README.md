@@ -8,58 +8,30 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Signika+Negative:wght@300..700&display=swap"
         rel="stylesheet">
-    <style>
-        h1 {
-            font-family: "Kanit", sans-serif;
-        }
-        h2 {
-            border-width: 0;
-            text-align: center;
-        }
-        .main-content {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .main-content-text {
-            font-family: "Signika Negative", sans-serif;
-        }
-        .title {
-            width: 50vw;
-        }
-        .title-text {
-            font-size: 3vw;
-        }
-    </style>
 </head>
 <body>
-    <header class="repo-title p-5 d-flex justify-content-center">
-        <div class="title border rounded bg-dark py-2">
-            <h1 class="text-light text-center title-text">Welcome to cyanjz github</h1>
-        </div>
-    </header>
-    <main class="main-content">
-        <article>
-            <h2 class="main-content-text">Tech Stack</h2>
-            <img
-                src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&" />
-            <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=f06428" />
-            <img
-                src="https://img.shields.io/badge/bootstrap-20232a.svg?style=for-the-badge&logo=bootstrap&" />
-        </article>
-        <article class="main-content">
-            <h2 class="main-content-text">Learning</h2>
-        </article>
-        <article class="main-content">
-            <h2 class="main-content-text">Tools</h2>
-        </article>
-    </main>
-    <footer>
-        <h2 class="main-content-text">Contact</h2>
-    </footer>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-        crossorigin="anonymous"></script>
+<h1 style="font-family: 'Kanit', sans-serif; font-size: 3vw; text-align: center; color: #fff; background-color: #212529; padding: 20px; border-radius: 10px;">
+    Welcome to cyanjz github
+</h1>
+
+<div style="text-align: center; font-family: 'Signika Negative', sans-serif; margin-top: 20px;">
+    <h2 style="border: 0;">Tech Stack</h2>
+    <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&" />
+    <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=f06428" />
+    <img src="https://img.shields.io/badge/bootstrap-20232a.svg?style=for-the-badge&logo=bootstrap&" />
+</div>
+
+<div style="text-align: center; font-family: 'Signika Negative', sans-serif; margin-top: 20px;">
+    <h2 style="border: 0;">Learning</h2>
+</div>
+
+<div style="text-align: center; font-family: 'Signika Negative', sans-serif; margin-top: 20px;">
+    <h2 style="border: 0;">Tools</h2>
+</div>
+
+<div style="text-align: center; font-family: 'Signika Negative', sans-serif; margin-top: 20px;">
+    <h2 style="border: 0;">Contact</h2>
+</div>
 </body>
 
 </html>
